@@ -67,3 +67,13 @@
     }
 
 }
+.opcoes{
+    display: flex;
+}
+.opcoes_item{
+    padding: 0 1em;
+}
+.opcoes_link{
+    text-decoration: none;
+    color: var(--preto);
+}
