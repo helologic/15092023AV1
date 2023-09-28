@@ -77,3 +77,15 @@
     text-decoration: none;
     color: var(--preto);
 }
+.container_imagem-transparente{
+    display: none;
+}
+.cabecalho__menu-hamburguer{
+    display: none;
+}
+.opcoes_botao:checked~.lista-menu{
+    display: block;
+}
+.opcoes_botao{
+    display:none;
+}
